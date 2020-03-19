@@ -11,5 +11,5 @@
 대상자: 이용자수 100만명(전년도 말 기준 직전 3개월간 일일평균)이거나 정보통신서비스 부문 매출액 100억원 이상인 정보통신서비스 제공자
 [방송통신위원회고시 2015-3호(2015.5.19) 개인정보의 기술적·관리적 보호조치 기준 제2조 및 제4조](https://kcc.go.kr/user.do;jsessionid=ep7IANKiKr9a1josE22qh8RFi6iTbn5NIbVjcXXHXabWJb4N4KT3abYUFuIEx2Hq.hmpwas01_servlet_engine1?mode=view&page=A02030300&dc=K02030300&boardId=1097&cp=1&searchKey=ALL&searchVal=%ea%b8%b0%ec%88%a0%ec%a0%81+%ea%b4%80%eb%a6%ac%ec%a0%81&boardSeq=41055)
 
-한국인터넷진흥원의 "개인정보의 기술적·관리적 보호조치 기준 해설서"에서 망분리 방식을 해설함
+한국인터넷진흥원의 [개인정보의 기술적·관리적 보호조치 기준 해설서](https://www.kisa.or.kr/public/laws/laws3_View.jsp?cPage=7&mode=view&p_No=259&b_No=259&d_No=102&ST=T&SV=)에서 망분리 방식을 해설함
 물리적/논리적 망분리 방식을 각각 예시로 설명
