@@ -13,3 +13,5 @@
 
 한국인터넷진흥원의 [개인정보의 기술적·관리적 보호조치 기준 해설서](https://www.kisa.or.kr/public/laws/laws3_View.jsp?cPage=7&mode=view&p_No=259&b_No=259&d_No=102&ST=T&SV=)에서 망분리 방식을 해설함
 물리적/논리적 망분리 방식을 각각 예시로 설명
+![network-separation](images/network-separation.png)
+
